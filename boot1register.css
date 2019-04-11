@@ -1,0 +1,23 @@
+.box{
+	border:10px 10px 10px 10px;
+	padding: 20px 20px 20px 20px;
+margin:20px;
+}
+h3{display: flex;
+	flex-wrap: wrap;
+	align-content: center;
+	color:blue;
+}
+.container{
+	background-color: lightblue;
+}
+h3{
+	padding: 10px;
+	display: flex;
+	justify-content: center;
+	color: black;
+font-family: 'Arapey', serif;
+}
+.btn-primary btn-lg{
+	margin-left: 20px;
+}
